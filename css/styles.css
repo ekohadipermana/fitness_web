@@ -36,9 +36,17 @@ nav li a {
     padding: 0.5em 1em;
     text-decoration: none;
 }
+
 main {
     clear: left;
     background-color: #fff;
     padding: 2%;
     font-size: 1.25em;
+}
+
+footer p {
+    font-size: 0.75em;
+    text-align: center;
+    color: #fff;
+    padding: 0 1em;
 }
