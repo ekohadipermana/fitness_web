@@ -58,6 +58,18 @@ main {
     padding: 1% 2%;
 }
 
+#exercises dt {
+    font-weight: bold;
+}
+
+#exercises dd {
+    padding: 0.5% 1% 2% 0;
+}
+
+#contact {
+    text-align: center;
+}
+
 footer p {
     font-size: 0.75em;
     text-align: center;
