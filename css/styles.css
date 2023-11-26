@@ -70,6 +70,10 @@ main {
     text-align: center;
 }
 
+#contact a {
+    color: #666600;
+    text-decoration: none;
+}
 footer p {
     font-size: 0.75em;
     text-align: center;
@@ -82,3 +86,6 @@ footer p a {
     text-decoration: none;
 }
 
+.map {
+    border: 8px solid #000;
+}
