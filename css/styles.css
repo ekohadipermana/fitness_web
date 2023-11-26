@@ -2,6 +2,11 @@ body {
     background-color: #ccc;
 }
 
+img {
+    max-width: 100%;
+    display: block;
+}
+
 header {
     width: 25%;
     float: left;
@@ -33,4 +38,7 @@ nav li a {
 }
 main {
     clear: left;
+    background-color: #fff;
+    padding: 2%;
+    font-size: 1.25em;
 }
