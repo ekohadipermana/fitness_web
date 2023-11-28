@@ -47,6 +47,14 @@ nav li a {
     text-decoration: none;
 }
 
+.mobile {
+    display: block;
+}
+
+.tablet-desktop {
+    display: none;
+}
+
 main {
     clear: left;
     background-color: #fff;
@@ -100,4 +108,3 @@ footer p a {
     border: 8px solid #000;
 }
 
-/* to page 197 */
