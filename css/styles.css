@@ -14,8 +14,12 @@ img {
 }
 
 header {
-    width: 25%;
-    float: left;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: #000;
+    height: 190px;
+    
 }
 
 nav {
